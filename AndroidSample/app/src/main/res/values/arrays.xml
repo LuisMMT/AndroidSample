@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+
+       <item>
+           Option a
+       </item>
+        <item>
+            Option b
+        </item>
+
+    </string-array>
+</resources>
